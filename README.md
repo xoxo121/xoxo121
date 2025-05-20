@@ -33,19 +33,28 @@ I’m fluent in sarcasm, hydro-powered coding, and explaining AI concepts to my 
 
 ---
 
-### 📈 GitHub Stats
-![Rahul Vimalkanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xoxo121&show_icons=true&theme=radical)
+### 🛠️ Technologies & Tools
+Here are some tools I love working with:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxo121&layout=compact&theme=radical)
+**Frameworks & Tools:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6C3C.svg?style=flat&logo=OpenCV&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%230070E0.svg?style=flat&logo=LangChain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23FF5733.svg?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![LTSpice](https://img.shields.io/badge/LTSpice-%234F4F4F.svg?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAE57.svg?style=flat&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![WandB](https://img.shields.io/badge/W%26B-%23FFBE00.svg?style=flat&logo=weightsandbiases&logoColor=white)
+
+**Programming Languages:**
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23A0A0A0.svg?style=flat)
 
 ---
 
-### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6C3C.svg?style=flat&logo=OpenCV&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-Feel free to reach out or explore my repositories below!
+Feel free to reach out or dive into my repositories below.
