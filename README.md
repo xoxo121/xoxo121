@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 I’m an **undergraduate student at IIT Madras** pursuing Electrical Engineering with a deep passion for **innovative problem-solving** and finding new ways to procrastinate productively.
-
+I dream of creating **systems that truly think and understand the world**, going beyond prediction to actual comprehension and reasoning.
 ---
 
 ### 👀 Interests
@@ -45,6 +45,8 @@ Here are some tools I love working with:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![LTSpice](https://img.shields.io/badge/LTSpice-%234F4F4F.svg?style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAE57.svg?style=flat&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![WandB](https://img.shields.io/badge/W%26B-%23FFBE00.svg?style=flat&logo=weightsandbiases&logoColor=white)
@@ -54,7 +56,8 @@ Here are some tools I love working with:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23A0A0A0.svg?style=flat)
-
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%23E06C75.svg?style=flat)  
+![AVR Assembly](https://img.shields.io/badge/AVR%20Assembly-%2361AFEF.svg?style=flat)
 ---
 
 Feel free to reach out or dive into my repositories below.
