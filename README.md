@@ -57,7 +57,6 @@ Here are some tools I love working with:
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23A0A0A0.svg?style=flat)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%23E06C75.svg?style=flat)  
-![AVR Assembly](https://img.shields.io/badge/AVR%20Assembly-%2361AFEF.svg?style=flat)
 ---
 
 Feel free to reach out or dive into my repositories below.
