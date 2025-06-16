@@ -1,22 +1,19 @@
 ## 👋 Hi, I’m **Rahul Vimalkanth**
 
 ### 🚀 About Me
-I’m an **undergraduate student at IIT Madras** pursuing Electrical Engineering with a deep passion for **innovative problem-solving** and finding new ways to procrastinate productively.
-I dream of creating **systems that truly think and understand the world**, going beyond prediction to actual comprehension and reasoning.
+I’m an **undergraduate student**  with a deep passion for **innovative problem-solving** and finding new ways to procrastinate productively.
 ---
 
 ### 👀 Interests
-- 👁️‍🗨️ Computer Vision: Teaching machines to see and perceive.
 - 🧠 Multimodal AI: Making AI fluent in all languages—visual, textual, and the occasional emoji.
-- 🚗 Autonomous Systems: Helping robots navigate better than humans (low bar, I know).
-- 🧠 Human-Computer Interaction: Crafting tech that understands humans, or at least pretends to.
--  🔢 Mathematics: Solving problems with elegance and precision (and occasionally pulling my hair out).
+- 🚗 Autonomous Systems: Helping robots navigate better than humans.
+-  🔢 Mathematics: Solving problems with elegance and precision.
 
 ---
 
 ### 💞️ Collaboration
 I’m looking to collaborate on:
-- AI-based research projects that blow minds.
+- Research projects that blow minds.
 - Startups or open-source projects that scream **innovation**.
 - Impactful tools that intersect **technology** and **creativity** (and don’t crash my laptop).
 
