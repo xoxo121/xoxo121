@@ -5,9 +5,9 @@ I’m an **undergraduate student**  with a deep passion for **innovative problem
 ---
 
 ### 👀 Interests
-- 🧠 Multimodal AI: Making AI fluent in all languages—visual, textual, and the occasional emoji.
-- 🚗 Autonomous Systems: Helping robots navigate better than humans.
--  🔢 Mathematics: Solving problems with elegance and precision.
+- Multimodal AI: Making AI fluent in all languages: visual, textual, and the occasional emoji.
+- Autonomous Systems: Helping robots navigate better than humans.
+- Mathematics: Solving problems with elegance and precision.
 
 ---
 
@@ -26,7 +26,7 @@ I’m looking to collaborate on:
 ---
 
 ### ⚡ Fun Fact
-I’m fluent in sarcasm, hydro-powered coding, and explaining AI concepts to my grandma.
+I’m fluent in sarcasm, hydro-powered reading, and explaining AI concepts to my grandma.
 
 ---
 
@@ -56,4 +56,4 @@ Here are some tools I love working with:
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-%23E06C75.svg?style=flat)  
 ---
 
-Feel free to reach out or dive into my repositories below.
+Feel free to reach out.
