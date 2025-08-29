@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m **Rahul Vimalkanth**
 
 ### 🚀 About Me
-I’m an **undergraduate student**  with a deep passion for **innovative problem-solving** and finding new ways to procrastinate productively.
+I’m an **undergraduate student**  with a deep passion for **innovative problem-solving**.
 ---
 
 ### 👀 Interests
