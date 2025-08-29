@@ -1,17 +1,17 @@
 ## 👋 Hi, I’m **Rahul Vimalkanth**
 
-### 🚀 About Me
-I’m an **undergraduate student**  with a deep passion for **innovative problem-solving**.
+### About Me
+I’m an **undergraduate student**  with a deep passion for **innovative problem-solving** and research.
 ---
 
-### 👀 Interests
-- Multimodal AI: Making AI fluent in all languages: visual, textual, and the occasional emoji.
-- Autonomous Systems: Helping robots navigate better than humans.
-- Mathematics: Solving problems with elegance and precision.
+### Interests
+- Multimodal AI
+- Autonomous Systems
+- Robotic Perception and Planning
 
 ---
 
-### 💞️ Collaboration
+### Collaboration
 I’m looking to collaborate on:
 - Research projects that blow minds.
 - Startups or open-source projects that scream **innovation**.
@@ -19,18 +19,18 @@ I’m looking to collaborate on:
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 - **Email**: rahulvimalkanth@gmail.com
 - **LinkedIn**: [Rahul Vimalkanth](https://www.linkedin.com/in/rahul-vimalkanth-13686728b/)
 
 ---
 
-### ⚡ Fun Fact
+### Fun Fact
 I’m fluent in sarcasm, hydro-powered reading, and explaining AI concepts to my grandma.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 Here are some tools I love working with:
 
 **Frameworks & Tools:**
