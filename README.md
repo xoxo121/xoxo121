@@ -19,12 +19,6 @@ I’m looking to collaborate on:
 
 ---
 
-### Contact Me
-- **Email**: rahulvimalkanth@gmail.com
-- **LinkedIn**: [Rahul Vimalkanth](https://www.linkedin.com/in/rahul-vimalkanth-13686728b/)
-
----
-
 ### Fun Fact
 I’m fluent in sarcasm, hydro-powered reading, and explaining AI concepts to my grandma.
 
