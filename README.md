@@ -3,12 +3,6 @@
 ### About Me
 I’m an **undergraduate student**  with a deep passion for **innovative problem-solving** and research.
 ---
-
-### Interests
-- Multimodal AI
-- Autonomous Systems
-- Robotic Perception and Planning
-
 ---
 
 ### Collaboration
