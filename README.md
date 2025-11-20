@@ -14,7 +14,7 @@ I’m looking to collaborate on:
 ---
 
 ### Fun Fact
-I’m fluent in sarcasm, hydro-powered reading, and explaining AI concepts to my grandma.
+I’m fluent in sarcasm, hydro-powered reading, and explaining concepts to my grandma.
 
 ---
 
