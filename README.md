@@ -1,20 +1,20 @@
 ## 👋 Hi, I’m **Rahul Vimalkanth**
 
 ### About Me
-I’m an **undergraduate student**  with a deep passion for **innovative problem-solving** and research.
----
+I’m an undergraduate student  with a deep passion for problem-solving, research and development.
+
 ---
 
 ### Collaboration
 I’m looking to collaborate on:
 - Research projects that blow minds.
-- Startups or open-source projects that scream **innovation**.
-- Impactful tools that intersect **technology** and **creativity** (and don’t crash my laptop).
+- Startups or open-source projects that scream innovation.
+- Impactful tools that intersect technology and creativity (and don’t crash my laptop).
 
 ---
 
 ### Fun Fact
-I’m fluent in sarcasm, hydro-powered reading, and explaining concepts to my grandma.
+I’m fluent in sarcasm, hydro-powered reading, and explaining complex concepts to my grandma.
 
 ---
 
@@ -33,7 +33,6 @@ Here are some tools I love working with:
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![WandB](https://img.shields.io/badge/W%26B-%23FFBE00.svg?style=flat&logo=weightsandbiases&logoColor=white)
 
 **Programming Languages:**
