@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m **Rahul Vimalkanth**
 
 I'm an undergraduate student, exploring the world of AI and Robotics.
-
 I love hard problems, elegant solutions, and pushing the boundaries of what's possible.
+
 ---
 
 ### Let's Build!
@@ -15,6 +15,7 @@ Always up for collaborating on:
 ---
 
 ### Fun Fact
+
 Fluent in sarcasm, powered by curiosity, and surprisingly good at explaining complicated concepts to my grandma.
 
 ---
