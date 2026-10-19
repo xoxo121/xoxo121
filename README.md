@@ -53,6 +53,7 @@ Fluent in sarcasm, powered by curiosity, and surprisingly good at explaining com
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-007ACC?style=flat)
 ![RoboSuite](https://img.shields.io/badge/RoboSuite-4B8BBE?style=flat)
 ![PyBullet](https://img.shields.io/badge/PyBullet-333333?style=flat)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat)
 ![OMPL](https://img.shields.io/badge/OMPL-555555?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
