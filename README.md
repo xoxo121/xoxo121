@@ -18,7 +18,8 @@ Always up for collaborating on:
 
 Fluent in sarcasm, powered by curiosity, and surprisingly good at explaining complicated concepts to my grandma.
 
---- 
+---
+
 
 <div align="center">
   <picture>
@@ -50,9 +51,9 @@ Fluent in sarcasm, powered by curiosity, and surprisingly good at explaining com
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-007ACC?style=flat)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 ![RoboSuite](https://img.shields.io/badge/RoboSuite-4B8BBE?style=flat)
 ![PyBullet](https://img.shields.io/badge/PyBullet-333333?style=flat)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat)
 ![OMPL](https://img.shields.io/badge/OMPL-555555?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -83,4 +84,3 @@ My inbox is open. Good conversations are always welcome!
 <a href="https://github.com/CelaDaniel" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
-
